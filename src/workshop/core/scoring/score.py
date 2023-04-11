@@ -23,10 +23,3 @@ def run(raw_data):
     except Exception as e:
         error= str(e)
         return json.dumps(error)
-    
-    
-    
-    
-    
-    
-    
